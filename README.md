@@ -1,11 +1,11 @@
-# 🎬 Sistema de Streaming - JPA / Spring Data
+# Sistema de Streaming - JPA / Spring Data
 
 Projeto desenvolvido para disciplina de POO com uso de **Spring Data JPA**.  
 O sistema simula uma plataforma de **streaming de vídeos**, com cadastro de usuários, perfis, vídeos, categorias, visualizações e avaliações.
 
 ---
 
-## 🚀 Funcionalidades
+## Funcionalidades
 - Cadastro de **Usuários** e **Perfis**
 - Cadastro de **Vídeos** e **Categorias**
 - Registro de **Visualizações** (progresso, data/hora)

@@ -19,4 +19,6 @@ O sistema simula uma plataforma de **streaming de vídeos**, com cadastro de usu
 
 ---
 
+![alt text]("C:\Users\7000007351\Pictures\uml_poo.png")
+
 

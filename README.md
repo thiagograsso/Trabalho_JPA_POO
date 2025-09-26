@@ -19,4 +19,4 @@ O sistema simula uma plataforma de **streaming de vídeos**, com cadastro de usu
 
 ---
 
-
+![alt text](uml_poo.png)
